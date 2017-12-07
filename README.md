@@ -1,7 +1,6 @@
-# Contrast-enhancement-in-digital-images
-Contrast enhancement in digital images
+# Contrast enhancement in digital images
 
-Folders content :
+### Folders content :
 
 1-Local color correction
 
@@ -13,9 +12,13 @@ Code using Matlab, comments are in French. Feel free to translate.
 
 
 
-Contibuters : 
+### Contibuters : 
 
 -Sakher BELOUADAH
 
 -Ines OUKID
+
+### Paper in english 
+
+https://www.slideshare.net/SakherBELOUADAH/contrast-enhancement-in-digital-images
 
